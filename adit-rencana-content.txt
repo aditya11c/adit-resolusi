@@ -3,9 +3,11 @@ RENCANA KONTEN ADIT
 -Javascript
 * ES6
 * Framework Javascript
-  ^ Angular
+  ^ Vve
   ^ React
+-Struktur Data Dasar
 -PHP Frameworks
  ^ Laravel
 -Interview
 -vlogs
+-python
